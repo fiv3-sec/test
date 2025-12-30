@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="92Vfx6u6_eRoDPq9bvTL">
+    <mxGraphModel dx="977" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-1" edge="1" parent="1" source="YVrl0yk5KvTXo5Fxzpah-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YVrl0yk5KvTXo5Fxzpah-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="信息系统负责人&lt;div&gt;填写上线检查信息&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-3" edge="1" parent="1" source="YVrl0yk5KvTXo5Fxzpah-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YVrl0yk5KvTXo5Fxzpah-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络安全管理员&lt;div&gt;确认信息&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-5" edge="1" parent="1" source="YVrl0yk5KvTXo5Fxzpah-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YVrl0yk5KvTXo5Fxzpah-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="驻场安服人员&lt;div&gt;进行检查&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-7" edge="1" parent="1" source="YVrl0yk5KvTXo5Fxzpah-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络安全管理员&lt;div&gt;确认系统是否具备上线条件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="153" x="647" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-9" edge="1" parent="1" source="YVrl0yk5KvTXo5Fxzpah-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YVrl0yk5KvTXo5Fxzpah-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-10" connectable="0" parent="YVrl0yk5KvTXo5Fxzpah-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.185" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-11" edge="1" parent="1" source="YVrl0yk5KvTXo5Fxzpah-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YVrl0yk5KvTXo5Fxzpah-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-12" connectable="0" parent="YVrl0yk5KvTXo5Fxzpah-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3739" y="5" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;×&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="870" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-14" edge="1" parent="1" source="YVrl0yk5KvTXo5Fxzpah-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YVrl0yk5KvTXo5Fxzpah-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="信息系统负责人&lt;div&gt;进行脆弱性修复&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="153" x="833.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-16" edge="1" parent="1" source="YVrl0yk5KvTXo5Fxzpah-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YVrl0yk5KvTXo5Fxzpah-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络安全管理员&lt;div&gt;开通系统网络权限&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;并归档&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="153" x="1020" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrl0yk5KvTXo5Fxzpah-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="结束" vertex="1">
+          <mxGeometry height="80" width="120" x="1240" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
